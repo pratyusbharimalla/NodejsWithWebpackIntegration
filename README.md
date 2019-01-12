@@ -1,3 +1,4 @@
+Boiler plate Node js code with webpack build tool integration.
 
 Steps to run the application.
 
